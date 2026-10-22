@@ -4,7 +4,7 @@
 //    完全不需要修改 index.html 與 admin.html！
 // ============================================================================
 
-const firebaseConfig = {
+
 const firebaseConfig = {
   apiKey: "AIzaSyAgFf15-neUJ1AzR5Qr3m2qZmYcJfLc6Q0",
   authDomain: "eat-order-test1.firebaseapp.com",
@@ -13,7 +13,7 @@ const firebaseConfig = {
   messagingSenderId: "441876556559",
   appId: "1:441876556559:web:4f7cb34b957ec340c9ac7a"
 };
-};
+
 
 
 window.FIREBASE_CONFIG = firebaseConfig;
